@@ -1,3 +1,3 @@
 # Rclass2023
 
-This is the materials used in class
+This is the materials used in class today
